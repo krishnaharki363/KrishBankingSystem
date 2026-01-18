@@ -1,0 +1,2 @@
+Krish Banking System 🏦
+The Krish Banking System is a secure C# console application simulating banking operations: deposits, withdrawals, and balance inquiries. It features PIN authentication with three-attempt lockout, password masking, input validation, and overdraft protection. The system starts with a $1000.00 balance.
